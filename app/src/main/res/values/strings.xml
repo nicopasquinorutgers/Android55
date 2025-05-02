@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android55</string>
+    <string name="add_tag">Add Tag</string>
+    <string name="search">Search</string>
+    <string-array name="tag_types">
+        <item>Person</item>
+        <item>Location</item>
+    </string-array>
+</resources>
